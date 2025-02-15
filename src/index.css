@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.topheader{
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.footheader{
+  text-align: center;
+}
+.abb{
+  margin-left: 120px;
+
+}
+.topheader button{
+  margin-right: 20px;
+}
+.topheader1{
+  background-color:maroon;
+}
+.topheader2{
+  float: right;
+  background-color: maroon;
+  padding-top: 40px;
+}
+.menu{
+  margin-right: 20px;
+}
+.Banner1{
+  padding-right: 0px; 
+  padding-left: 0px;
+}
+
+.home2{
+  margin-left: 150px;
+  margin-right: 150px;
+  padding-top: 30px;
+}
+.left{
+  float:left
+}
+.right{
+  float: right;
+}
+.f1{
+  font-size: 25px;
+}
+.I1{
+  width: 300px;
+  height: 300px;
+  margin-right: 20px;
+}
+.I2{
+  width: 300px;
+  height: 300px;
+}
+
+.btn{
+  color: white;
+}
+.cc em{
+  color: blue;
+}
