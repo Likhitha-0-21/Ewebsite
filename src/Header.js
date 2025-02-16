@@ -11,7 +11,7 @@ function Header(){
             </div>
             <div className="row topheader1">
                 <div className='col-2'>
-                <img  src={Logo} width='100px' ></img>
+                <img  src={Logo} className="img-fluid" width='100px' ></img>
                 </div>
                 <div className="col-10">
                     <div className="menu">

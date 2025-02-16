@@ -19,13 +19,13 @@ function Home(){
                     </div>
                     <div className="row home2">
                         <div className="col-4">
-                            <img src={Men} className="I1"></img>
+                            <img src={Men} className="I1 img-fluid"></img>
                         </div>
                         <div className="col-4">
-                            <img src={Women} className="I2"></img>
+                            <img src={Women} className="I2 img-fluid"></img>
                         </div>
                         <div className="col-4">
-                        <img src={Kid} className="I2"></img>
+                        <img src={Kid} className="I2 img-fluid"></img>
                         </div>
                     </div>
                 </div>
